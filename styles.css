@@ -1,0 +1,42 @@
+h1,
+a,
+.availability {
+    font-family: 'Special Elite', cursive;
+}
+
+body {
+    background-color: #463838;
+    color: aliceblue;
+}
+
+.nav-area {
+    background-color: #975544;
+}
+
+.Nav-Option {
+    color: aliceblue;
+}
+
+.Nav-Option:hover {
+    color: #975544;
+    background-color: aliceblue;
+}
+
+.home-img {
+    height: auto;
+    width: 80%;
+}
+
+.footer {
+    background-color: #372c2c;
+}
+
+.col-md-6 p {
+    font-family: 'Sacramento', cursive;
+    font-size: 24px;
+}
+
+p span {
+
+    font-size: 50px;
+}
